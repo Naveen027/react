@@ -1,0 +1,11 @@
+.container-fluid ul {
+    display: flex;
+    list-style: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+.container-fluid li{
+    margin: 5px;
+    padding: 5px;
+}
